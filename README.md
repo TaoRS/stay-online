@@ -1,7 +1,7 @@
 Stay online
 -----
 
-This python script is designed to make your mouse move randomly in order to keep you online on Skype, Slack, Teams, etc.
+This python script is designed to make your mouse move randomly in order to keep you online on Skype, etc.
 
 Dependecies
 ---
